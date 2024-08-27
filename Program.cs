@@ -14,7 +14,7 @@ builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo
     {
-        Title = "API RestFull de Tareas",
+        Title = "API RestFul de Tareas",
         Version = "v1",
         Description = "Desarrollo de Crud de Tareas",
         Contact = new OpenApiContact
